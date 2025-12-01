@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "4nim0sity [99.999999999%]",
+  "base_artist": "イチ",
+  "createdAt": "2025-12-01T10:36:01.098363Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "4nim0sity [99.999999999%]",
+      "artist": "イチ",
+      "has_synced": false,
+      "path": "select/pl_01_4nim0sity_[99.999999999_]_イチ.txt"
+    }
+  ]
+}
